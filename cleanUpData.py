@@ -11,3 +11,6 @@ for line in infile:
     line = line[:30] + line[-1:]
     line = (',').join(line)
     print( line , file=outfile)
+
+infile.close()
+outfile.close()
