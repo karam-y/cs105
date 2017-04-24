@@ -8,7 +8,7 @@ outfile = open('student.csv','w')
 for line in infile:
     line = line.replace(";",",")
     line = line.split(',')
-    line = line[:30] + line[-1:]
+    line = line[1:8] + line[12:19] + line[20:30] + line[-1:]
     line = (',').join(line)
     line = line.replace('"',"")
     print( line , file=outfile)
