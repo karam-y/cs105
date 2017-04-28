@@ -1,0 +1,396 @@
+Medu,Fedu,traveltime,studytime,failures,famrel,freetime,goout,health,absences,G
+college,college,15 to 30 min,2 to 5 hours,0,good,average,high,average,6,F
+elementary,elementary,<15 min,2 to 5 hours,0,excellent,average,average,average,4,F
+elementary,elementary,<15 min,2 to 5 hours,3,good,average,low,average,10,F
+college,junior high,<15 min,5 to 10 hours,0,average,low,low,very good,2,B
+high school,high school,<15 min,2 to 5 hours,0,good,average,low,very good,4,D
+college,high school,<15 min,2 to 5 hours,0,excellent,high,low,very good,10,B
+junior high,junior high,<15 min,2 to 5 hours,0,good,high,high,average,0,D
+college,college,15 to 30 min,2 to 5 hours,0,good,very low,high,very bad,6,F
+high school,junior high,<15 min,2 to 5 hours,0,good,low,low,very bad,0,A
+high school,college,<15 min,2 to 5 hours,0,excellent,very high,very low,very good,0,B
+college,college,<15 min,2 to 5 hours,0,average,average,average,bad,0,F
+junior high,elementary,30 min to 1 hr,5 to 10 hours,0,excellent,low,low,good,4,C
+college,college,<15 min,<2 hours,0,good,average,average,very good,2,B
+college,high school,15 to 30 min,2 to 5 hours,0,excellent,high,average,average,2,D
+junior high,junior high,<15 min,5 to 10 hours,0,good,very high,low,average,0,A
+college,college,<15 min,<2 hours,0,good,high,high,bad,4,B
+college,college,<15 min,5 to 10 hours,0,average,low,average,bad,6,B
+high school,high school,30 min to 1 hr,2 to 5 hours,0,excellent,average,low,good,4,D
+high school,junior high,<15 min,<2 hours,3,excellent,very high,very high,very good,16,F
+college,high school,<15 min,<2 hours,0,average,very low,average,very good,4,D
+college,high school,<15 min,2 to 5 hours,0,good,high,very low,very bad,0,B
+college,college,<15 min,<2 hours,0,excellent,high,low,very good,0,B
+college,junior high,<15 min,2 to 5 hours,0,good,very high,very low,very good,2,A
+junior high,junior high,15 to 30 min,2 to 5 hours,0,excellent,high,high,very good,0,C
+junior high,college,<15 min,5 to 10 hours,0,good,average,low,very good,2,F
+junior high,junior high,<15 min,<2 hours,2,very bad,low,low,very good,14,F
+junior high,junior high,<15 min,<2 hours,0,good,low,low,very good,2,D
+college,junior high,<15 min,<2 hours,0,bad,low,high,very bad,4,B
+high school,college,<15 min,2 to 5 hours,0,excellent,average,average,very good,4,D
+college,college,<15 min,2 to 5 hours,0,good,high,very high,very good,16,D
+college,college,<15 min,2 to 5 hours,0,excellent,high,low,very good,0,C
+college,college,15 to 30 min,2 to 5 hours,0,good,average,very low,very good,0,A
+college,high school,<15 min,2 to 5 hours,0,good,very high,low,very good,0,A
+high school,high school,<15 min,2 to 5 hours,0,excellent,average,low,bad,0,C
+high school,junior high,<15 min,<2 hours,0,excellent,high,average,very good,0,B
+junior high,high school,15 to 30 min,<2 hours,0,average,very high,very low,very good,0,F
+college,high school,<15 min,5 to 10 hours,0,excellent,high,average,good,2,A
+college,college,15 to 30 min,5 to 10 hours,0,bad,high,average,very good,7,B
+high school,college,<15 min,5 to 10 hours,0,good,average,low,very good,2,D
+junior high,junior high,<15 min,<2 hours,0,good,average,very low,bad,8,C
+junior high,junior high,15 to 30 min,2 to 5 hours,1,average,average,average,average,25,D
+college,college,<15 min,<2 hours,0,excellent,high,average,very good,8,C
+college,college,<15 min,2 to 5 hours,0,good,average,average,very good,2,A
+junior high,junior high,<15 min,<2 hours,0,excellent,high,very low,very bad,0,F
+junior high,junior high,15 to 30 min,2 to 5 hours,1,good,average,average,very good,14,A
+college,high school,<15 min,2 to 5 hours,0,excellent,low,low,very good,8,F
+high school,high school,<15 min,2 to 5 hours,0,bad,average,very high,average,12,D
+college,high school,<15 min,10 hours,0,good,low,low,bad,4,A
+college,junior high,<15 min,2 to 5 hours,0,good,average,average,very good,2,B
+college,college,<15 min,2 to 5 hours,1,good,high,high,average,2,F
+junior high,junior high,30 min to 1 hr,2 to 5 hours,0,good,average,average,good,2,C
+college,junior high,<15 min,2 to 5 hours,0,good,average,average,very good,2,C
+college,junior high,15 to 30 min,<2 hours,1,excellent,very high,very high,very good,6,D
+college,college,<15 min,<2 hours,0,average,average,high,very good,0,D
+high school,high school,<15 min,<2 hours,0,excellent,average,high,very bad,6,C
+junior high,elementary,<15 min,2 to 5 hours,0,excellent,average,high,bad,8,F
+college,high school,<15 min,2 to 5 hours,0,good,average,low,very bad,0,B
+college,college,<15 min,2 to 5 hours,0,average,low,low,very good,4,B
+elementary,junior high,<15 min,2 to 5 hours,0,good,average,low,very good,2,A
+college,junior high,<15 min,2 to 5 hours,0,good,low,average,very good,2,A
+college,college,<15 min,2 to 5 hours,0,bad,high,high,good,6,D
+elementary,elementary,>1 hour,<2 hours,0,excellent,very high,very high,very good,6,F
+elementary,junior high,<15 min,2 to 5 hours,0,good,high,average,very bad,4,A
+college,high school,<15 min,5 to 10 hours,0,average,high,high,good,2,F
+college,high school,<15 min,2 to 5 hours,0,good,high,high,bad,0,D
+college,high school,30 min to 1 hr,2 to 5 hours,0,excellent,high,average,very bad,2,B
+college,college,<15 min,10 hours,0,very bad,average,average,average,4,C
+high school,elementary,<15 min,10 hours,0,good,average,average,very good,4,F
+junior high,junior high,15 to 30 min,2 to 5 hours,0,good,very low,average,good,2,F
+high school,elementary,15 to 30 min,10 hours,0,good,high,low,average,12,A
+high school,elementary,15 to 30 min,10 hours,0,good,average,low,very good,0,B
+college,junior high,<15 min,10 hours,0,average,average,average,average,0,D
+elementary,elementary,<15 min,2 to 5 hours,2,average,average,high,very good,2,F
+high school,elementary,<15 min,<2 hours,0,excellent,average,low,very good,2,B
+high school,high school,<15 min,2 to 5 hours,0,good,average,average,very good,54,D
+college,high school,<15 min,2 to 5 hours,0,good,average,average,very good,6,F
+college,none,15 to 30 min,10 hours,0,average,high,average,very bad,8,D
+junior high,junior high,<15 min,10 hours,0,excellent,low,average,average,0,D
+junior high,elementary,15 to 30 min,<2 hours,3,good,very high,very low,average,2,F
+high school,college,<15 min,2 to 5 hours,0,bad,high,average,average,12,F
+junior high,high school,<15 min,<2 hours,0,average,low,low,average,2,C
+junior high,high school,<15 min,5 to 10 hours,0,excellent,average,low,very good,4,D
+high school,junior high,<15 min,2 to 5 hours,0,good,high,high,very good,10,F
+junior high,junior high,15 to 30 min,2 to 5 hours,0,excellent,average,average,good,4,B
+elementary,elementary,<15 min,2 to 5 hours,0,good,average,low,good,2,D
+college,college,15 to 30 min,2 to 5 hours,2,good,high,high,very good,6,F
+junior high,junior high,<15 min,2 to 5 hours,0,good,average,high,bad,4,F
+college,junior high,<15 min,5 to 10 hours,0,excellent,average,average,very bad,4,B
+junior high,junior high,15 to 30 min,2 to 5 hours,1,good,high,low,average,12,D
+college,college,<15 min,2 to 5 hours,0,good,very low,average,very good,18,F
+high school,high school,<15 min,5 to 10 hours,0,good,average,average,good,0,F
+college,high school,<15 min,<2 hours,0,good,very high,very high,very bad,4,A
+high school,elementary,<15 min,2 to 5 hours,0,average,average,average,bad,4,F
+college,junior high,15 to 30 min,2 to 5 hours,0,excellent,average,average,very bad,0,D
+junior high,junior high,<15 min,10 hours,0,good,average,high,good,6,B
+elementary,elementary,15 to 30 min,10 hours,1,average,very low,low,very bad,2,D
+college,high school,15 to 30 min,<2 hours,0,average,average,average,good,2,B
+junior high,elementary,<15 min,2 to 5 hours,0,good,average,very high,very good,2,F
+college,college,<15 min,<2 hours,0,excellent,average,high,very bad,6,B
+college,high school,<15 min,5 to 10 hours,0,excellent,average,very high,average,0,F
+college,college,<15 min,<2 hours,0,good,very high,very high,good,14,F
+college,college,<15 min,5 to 10 hours,0,good,high,average,good,0,A
+college,college,<15 min,<2 hours,0,excellent,average,average,very good,4,B
+high school,junior high,15 to 30 min,2 to 5 hours,0,good,average,very high,bad,26,F
+high school,college,<15 min,2 to 5 hours,0,excellent,high,high,very bad,0,A
+high school,high school,<15 min,10 hours,0,good,average,average,good,10,D
+junior high,junior high,<15 min,10 hours,0,excellent,very low,low,average,8,F
+high school,high school,<15 min,5 to 10 hours,0,excellent,average,average,very good,2,A
+college,college,>1 hour,10 hours,0,very bad,average,very high,very bad,6,C
+college,college,<15 min,5 to 10 hours,0,excellent,high,very high,good,4,A
+college,college,<15 min,<2 hours,0,excellent,very high,average,good,6,A
+high school,high school,<15 min,5 to 10 hours,1,good,very low,low,bad,0,D
+junior high,junior high,<15 min,2 to 5 hours,1,average,very low,low,very good,6,C
+college,junior high,<15 min,<2 hours,0,average,very high,low,average,10,A
+junior high,elementary,<15 min,2 to 5 hours,0,excellent,high,low,very good,8,F
+college,college,<15 min,2 to 5 hours,0,excellent,high,high,very good,2,A
+college,college,15 to 30 min,2 to 5 hours,0,good,high,average,bad,2,B
+high school,high school,15 to 30 min,<2 hours,0,excellent,high,low,very good,0,C
+elementary,high school,30 min to 1 hr,2 to 5 hours,1,excellent,low,high,very good,20,F
+high school,college,<15 min,<2 hours,0,average,high,average,good,6,C
+elementary,junior high,<15 min,2 to 5 hours,0,average,low,average,very bad,2,B
+junior high,junior high,<15 min,10 hours,0,excellent,very high,high,very good,6,B
+junior high,college,15 to 30 min,2 to 5 hours,0,good,low,low,very good,2,C
+college,college,<15 min,<2 hours,0,average,high,high,very good,18,C
+junior high,junior high,<15 min,2 to 5 hours,0,excellent,high,high,very good,0,F
+high school,college,<15 min,<2 hours,0,excellent,very high,very high,very good,0,C
+high school,college,<15 min,2 to 5 hours,0,excellent,average,low,very bad,0,D
+none,elementary,<15 min,2 to 5 hours,3,average,high,low,very good,2,F
+junior high,junior high,<15 min,<2 hours,2,average,average,average,good,0,F
+college,college,<15 min,<2 hours,0,average,very high,very high,good,8,A
+high school,college,15 to 30 min,5 to 10 hours,2,good,low,low,very good,0,F
+elementary,elementary,30 min to 1 hr,<2 hours,0,good,average,average,good,0,F
+junior high,junior high,<15 min,<2 hours,0,average,high,high,very good,12,C
+high school,college,<15 min,<2 hours,0,average,low,very low,very good,16,D
+high school,college,>1 hour,2 to 5 hours,0,excellent,average,average,very good,0,F
+college,college,<15 min,5 to 10 hours,0,good,average,average,very good,0,F
+high school,college,30 min to 1 hr,2 to 5 hours,0,excellent,high,very high,very good,0,F
+high school,high school,15 to 30 min,<2 hours,2,good,average,low,very good,0,F
+elementary,elementary,<15 min,2 to 5 hours,1,good,high,high,very good,0,C
+college,college,15 to 30 min,<2 hours,0,good,average,low,very good,0,B
+college,high school,15 to 30 min,10 hours,0,bad,low,low,average,0,F
+junior high,junior high,15 to 30 min,<2 hours,2,bad,average,average,bad,8,F
+college,college,<15 min,5 to 10 hours,0,good,low,low,very good,2,D
+elementary,elementary,<15 min,<2 hours,0,average,high,high,very bad,2,C
+junior high,elementary,<15 min,<2 hours,3,excellent,high,very high,very good,0,F
+elementary,elementary,<15 min,2 to 5 hours,0,good,high,low,very good,0,D
+high school,junior high,<15 min,2 to 5 hours,3,average,average,low,average,0,F
+elementary,junior high,<15 min,2 to 5 hours,0,good,average,low,very good,2,D
+college,college,<15 min,<2 hours,0,average,average,low,very good,0,F
+junior high,elementary,>1 hour,<2 hours,3,good,very high,very high,very good,0,F
+elementary,elementary,<15 min,<2 hours,3,bad,average,very high,good,0,F
+junior high,elementary,<15 min,<2 hours,1,good,high,high,very good,6,B
+high school,high school,15 to 30 min,5 to 10 hours,2,good,low,very low,average,8,D
+high school,junior high,<15 min,<2 hours,3,good,very high,high,good,0,F
+college,college,<15 min,<2 hours,0,good,low,very low,good,0,C
+junior high,high school,<15 min,2 to 5 hours,0,good,high,high,very bad,2,F
+elementary,junior high,<15 min,<2 hours,0,bad,low,low,very good,8,C
+elementary,elementary,30 min to 1 hr,<2 hours,3,excellent,low,very high,good,6,F
+junior high,junior high,30 min to 1 hr,<2 hours,0,good,low,low,average,2,B
+high school,high school,<15 min,2 to 5 hours,1,good,very high,very high,very good,4,C
+junior high,elementary,15 to 30 min,<2 hours,2,average,average,low,very good,0,F
+high school,junior high,15 to 30 min,2 to 5 hours,2,good,high,high,average,6,F
+elementary,junior high,15 to 30 min,<2 hours,1,good,high,high,very good,0,F
+elementary,high school,<15 min,<2 hours,0,excellent,average,average,bad,2,D
+elementary,elementary,>1 hour,2 to 5 hours,3,excellent,average,very high,very good,0,F
+high school,junior high,15 to 30 min,<2 hours,1,good,very high,low,bad,16,C
+junior high,junior high,<15 min,2 to 5 hours,0,good,average,very high,good,4,D
+college,junior high,<15 min,2 to 5 hours,0,good,low,average,average,0,A
+junior high,junior high,<15 min,2 to 5 hours,0,excellent,very low,very high,good,0,F
+college,college,<15 min,2 to 5 hours,0,good,high,low,average,0,B
+high school,college,30 min to 1 hr,<2 hours,2,average,high,very high,bad,0,F
+elementary,none,15 to 30 min,2 to 5 hours,0,good,average,low,average,2,A
+college,college,<15 min,2 to 5 hours,0,good,high,high,very good,0,D
+elementary,high school,<15 min,2 to 5 hours,3,good,average,very high,average,0,F
+high school,high school,15 to 30 min,2 to 5 hours,0,good,high,very high,good,4,A
+college,high school,15 to 30 min,2 to 5 hours,0,good,high,high,good,4,F
+junior high,junior high,15 to 30 min,2 to 5 hours,0,average,high,high,very good,2,D
+high school,high school,<15 min,2 to 5 hours,0,good,average,high,good,4,F
+college,junior high,<15 min,<2 hours,0,good,average,average,average,10,F
+college,high school,<15 min,2 to 5 hours,0,excellent,low,average,bad,4,D
+college,high school,<15 min,2 to 5 hours,0,average,high,average,average,10,F
+high school,high school,<15 min,2 to 5 hours,0,good,low,average,average,2,C
+junior high,college,<15 min,2 to 5 hours,0,excellent,high,low,very good,0,A
+high school,high school,<15 min,2 to 5 hours,0,excellent,average,average,very bad,56,F
+high school,junior high,<15 min,2 to 5 hours,0,very bad,low,low,very bad,14,C
+high school,high school,<15 min,2 to 5 hours,0,good,average,high,good,12,D
+elementary,junior high,<15 min,<2 hours,0,average,average,average,average,2,D
+junior high,elementary,<15 min,2 to 5 hours,0,good,low,average,very good,0,B
+high school,high school,<15 min,2 to 5 hours,0,average,average,average,average,6,F
+elementary,junior high,<15 min,2 to 5 hours,0,average,very low,average,average,4,F
+junior high,high school,<15 min,2 to 5 hours,0,good,average,average,bad,10,C
+elementary,elementary,<15 min,2 to 5 hours,0,excellent,average,average,average,0,F
+elementary,junior high,15 to 30 min,2 to 5 hours,0,good,high,high,very good,12,F
+high school,high school,<15 min,<2 hours,0,good,average,low,very good,8,F
+junior high,high school,15 to 30 min,<2 hours,0,excellent,average,average,average,0,B
+junior high,college,<15 min,2 to 5 hours,0,good,average,low,very good,0,B
+college,college,<15 min,<2 hours,0,excellent,low,average,very good,4,A
+high school,high school,30 min to 1 hr,<2 hours,0,average,average,high,average,8,F
+college,college,15 to 30 min,<2 hours,1,good,low,high,bad,24,A
+college,college,<15 min,2 to 5 hours,0,good,very high,low,average,0,F
+college,high school,<15 min,2 to 5 hours,0,good,average,very high,bad,2,A
+junior high,high school,<15 min,2 to 5 hours,0,good,high,average,good,6,D
+elementary,elementary,<15 min,2 to 5 hours,0,good,high,high,very bad,4,F
+junior high,junior high,<15 min,<2 hours,0,excellent,average,low,average,18,F
+junior high,junior high,15 to 30 min,10 hours,0,excellent,average,very high,very good,6,D
+high school,college,<15 min,5 to 10 hours,1,good,high,average,very good,28,F
+high school,elementary,<15 min,2 to 5 hours,3,bad,average,average,good,5,F
+college,high school,<15 min,2 to 5 hours,0,very bad,average,low,very bad,10,C
+elementary,elementary,15 to 30 min,<2 hours,0,good,average,low,very good,6,F
+college,high school,15 to 30 min,5 to 10 hours,0,good,high,low,good,6,F
+high school,high school,<15 min,10 hours,0,good,average,average,average,10,F
+college,college,<15 min,2 to 5 hours,0,excellent,average,very high,average,13,C
+junior high,junior high,<15 min,2 to 5 hours,0,average,average,high,good,0,B
+junior high,junior high,<15 min,2 to 5 hours,1,good,high,high,very good,15,F
+college,college,<15 min,<2 hours,0,excellent,low,very low,average,12,D
+high school,junior high,15 to 30 min,2 to 5 hours,0,good,high,high,very bad,2,B
+college,high school,<15 min,2 to 5 hours,2,average,high,very high,very bad,22,F
+high school,high school,<15 min,2 to 5 hours,1,average,low,high,good,13,F
+junior high,high school,15 to 30 min,<2 hours,0,average,average,average,average,3,F
+junior high,junior high,<15 min,5 to 10 hours,0,good,average,average,good,4,D
+junior high,elementary,15 to 30 min,2 to 5 hours,0,good,low,very high,very good,2,F
+elementary,elementary,<15 min,5 to 10 hours,1,good,average,high,very good,0,F
+junior high,high school,<15 min,2 to 5 hours,0,bad,average,very low,average,2,A
+junior high,junior high,15 to 30 min,2 to 5 hours,0,average,average,average,good,0,C
+college,college,<15 min,5 to 10 hours,0,excellent,average,low,very good,0,B
+high school,elementary,<15 min,2 to 5 hours,1,excellent,average,average,good,16,F
+high school,junior high,<15 min,2 to 5 hours,0,excellent,average,high,average,10,B
+junior high,high school,<15 min,2 to 5 hours,0,excellent,average,average,average,2,C
+junior high,elementary,>1 hour,2 to 5 hours,0,good,average,low,average,14,F
+junior high,elementary,15 to 30 min,5 to 10 hours,0,average,low,average,average,10,C
+college,high school,<15 min,2 to 5 hours,0,average,low,average,average,14,B
+junior high,junior high,15 to 30 min,2 to 5 hours,0,good,very high,low,very bad,4,D
+college,college,<15 min,2 to 5 hours,0,good,very high,very high,bad,14,F
+college,college,<15 min,2 to 5 hours,0,good,low,high,very bad,2,C
+elementary,elementary,15 to 30 min,2 to 5 hours,0,average,high,low,very good,18,F
+high school,junior high,15 to 30 min,5 to 10 hours,0,excellent,average,average,bad,10,F
+junior high,junior high,<15 min,2 to 5 hours,0,good,high,low,good,4,C
+junior high,elementary,<15 min,<2 hours,0,good,very high,low,very good,20,C
+junior high,elementary,30 min to 1 hr,2 to 5 hours,0,bad,very low,very low,average,2,D
+junior high,junior high,<15 min,2 to 5 hours,1,excellent,very high,high,bad,0,F
+college,high school,15 to 30 min,2 to 5 hours,0,bad,very high,very high,very good,14,C
+college,college,15 to 30 min,2 to 5 hours,0,average,average,average,good,2,C
+college,high school,<15 min,<2 hours,0,excellent,high,very high,average,0,F
+college,college,<15 min,<2 hours,0,excellent,average,low,very good,0,C
+junior high,elementary,15 to 30 min,5 to 10 hours,0,good,high,high,average,0,F
+junior high,elementary,30 min to 1 hr,<2 hours,0,good,average,average,good,6,A
+junior high,high school,15 to 30 min,<2 hours,0,excellent,low,low,bad,4,C
+high school,elementary,<15 min,<2 hours,3,excellent,high,very high,very bad,16,F
+high school,high school,<15 min,2 to 5 hours,1,good,average,average,very good,8,F
+none,junior high,<15 min,<2 hours,0,good,average,low,very good,0,B
+high school,junior high,15 to 30 min,<2 hours,1,good,high,very high,very good,0,F
+high school,high school,30 min to 1 hr,2 to 5 hours,0,excellent,average,average,bad,6,D
+junior high,elementary,<15 min,<2 hours,1,average,low,very high,very good,4,F
+junior high,elementary,15 to 30 min,<2 hours,0,average,average,low,average,0,F
+junior high,elementary,<15 min,<2 hours,0,good,high,low,very good,0,C
+elementary,elementary,15 to 30 min,<2 hours,1,good,high,high,very good,2,F
+college,junior high,<15 min,10 hours,0,good,low,average,good,6,C
+college,high school,<15 min,2 to 5 hours,0,good,average,very low,very bad,12,D
+junior high,elementary,<15 min,2 to 5 hours,0,excellent,low,high,good,8,B
+junior high,junior high,<15 min,10 hours,0,average,high,very low,bad,0,F
+college,high school,<15 min,2 to 5 hours,0,average,very low,low,bad,21,A
+college,high school,<15 min,2 to 5 hours,0,good,average,low,average,2,F
+high school,junior high,<15 min,5 to 10 hours,0,excellent,average,low,average,1,C
+high school,high school,<15 min,5 to 10 hours,0,average,low,average,good,4,F
+junior high,junior high,<15 min,5 to 10 hours,0,good,average,average,average,0,A
+high school,college,15 to 30 min,2 to 5 hours,0,good,low,very high,very bad,13,A
+high school,elementary,<15 min,2 to 5 hours,0,excellent,high,high,very good,2,F
+college,college,15 to 30 min,2 to 5 hours,0,good,average,high,good,8,D
+college,junior high,<15 min,2 to 5 hours,0,excellent,high,very high,very good,10,F
+junior high,elementary,15 to 30 min,2 to 5 hours,0,good,average,very high,average,0,F
+high school,high school,<15 min,2 to 5 hours,2,good,average,very high,very good,15,F
+junior high,high school,<15 min,10 hours,0,good,very high,very high,bad,4,B
+elementary,elementary,15 to 30 min,2 to 5 hours,0,good,high,average,average,2,D
+elementary,junior high,<15 min,2 to 5 hours,0,average,very high,low,very bad,2,B
+junior high,college,15 to 30 min,2 to 5 hours,0,good,average,average,very bad,2,D
+junior high,junior high,15 to 30 min,2 to 5 hours,0,good,high,high,very good,6,C
+high school,junior high,15 to 30 min,2 to 5 hours,0,good,very low,very low,very good,75,F
+college,college,15 to 30 min,<2 hours,0,average,low,high,average,22,F
+college,college,<15 min,2 to 5 hours,1,bad,high,high,good,15,F
+college,high school,15 to 30 min,<2 hours,0,good,low,average,very bad,8,D
+college,elementary,15 to 30 min,<2 hours,0,good,very high,high,very good,30,F
+high school,junior high,<15 min,<2 hours,1,good,high,high,average,19,F
+elementary,elementary,15 to 30 min,10 hours,0,excellent,low,low,average,1,C
+elementary,elementary,15 to 30 min,2 to 5 hours,0,excellent,high,high,good,4,F
+junior high,junior high,<15 min,2 to 5 hours,0,excellent,high,very high,very good,4,F
+elementary,elementary,<15 min,2 to 5 hours,0,good,average,average,good,2,D
+junior high,junior high,<15 min,5 to 10 hours,0,good,average,average,bad,5,A
+elementary,elementary,<15 min,5 to 10 hours,0,good,average,average,average,6,C
+junior high,elementary,<15 min,5 to 10 hours,0,good,low,high,bad,6,B
+college,college,<15 min,2 to 5 hours,0,excellent,high,average,bad,9,B
+college,junior high,<15 min,2 to 5 hours,0,good,average,low,very good,11,D
+college,high school,<15 min,5 to 10 hours,0,good,low,low,average,0,B
+junior high,elementary,<15 min,2 to 5 hours,1,excellent,high,average,very good,12,C
+high school,elementary,15 to 30 min,10 hours,0,average,very low,low,average,6,A
+high school,junior high,15 to 30 min,5 to 10 hours,0,excellent,high,low,good,8,B
+high school,high school,<15 min,<2 hours,0,good,high,average,very good,4,D
+college,college,15 to 30 min,2 to 5 hours,0,bad,average,high,bad,0,F
+college,high school,15 to 30 min,2 to 5 hours,0,good,high,very high,bad,10,F
+college,high school,<15 min,10 hours,0,good,average,average,average,0,B
+college,college,<15 min,<2 hours,0,very bad,high,low,very bad,5,A
+college,college,<15 min,2 to 5 hours,0,good,low,high,good,14,D
+college,college,15 to 30 min,<2 hours,0,good,very low,very low,very good,0,D
+college,junior high,15 to 30 min,5 to 10 hours,0,good,average,average,average,0,B
+high school,junior high,<15 min,10 hours,0,excellent,low,low,very good,0,A
+high school,high school,<15 min,2 to 5 hours,1,good,high,high,average,20,C
+junior high,college,<15 min,2 to 5 hours,1,good,high,average,average,8,C
+high school,junior high,<15 min,<2 hours,0,excellent,very high,average,very good,0,A
+college,college,15 to 30 min,<2 hours,1,good,average,high,good,38,F
+high school,high school,<15 min,2 to 5 hours,1,good,very high,average,very good,0,C
+elementary,elementary,<15 min,2 to 5 hours,1,good,high,average,average,18,D
+elementary,junior high,<15 min,2 to 5 hours,1,good,low,high,average,0,F
+junior high,elementary,30 min to 1 hr,2 to 5 hours,0,average,high,very low,bad,20,C
+elementary,junior high,<15 min,2 to 5 hours,1,good,very high,low,good,3,D
+high school,junior high,15 to 30 min,2 to 5 hours,1,good,low,low,very bad,22,D
+elementary,elementary,<15 min,5 to 10 hours,2,good,very low,low,average,14,C
+junior high,high school,<15 min,5 to 10 hours,1,good,very low,low,average,40,D
+junior high,elementary,15 to 30 min,2 to 5 hours,0,excellent,average,average,very bad,0,F
+college,high school,<15 min,5 to 10 hours,0,good,average,high,very good,9,A
+high school,college,<15 min,5 to 10 hours,0,good,average,high,very good,0,D
+college,college,<15 min,2 to 5 hours,0,good,high,high,very good,2,D
+college,high school,<15 min,2 to 5 hours,0,excellent,low,low,very good,23,C
+junior high,junior high,<15 min,2 to 5 hours,0,good,low,low,average,12,F
+junior high,junior high,<15 min,5 to 10 hours,0,average,average,low,average,3,D
+high school,elementary,<15 min,5 to 10 hours,0,average,high,average,very good,1,B
+none,junior high,15 to 30 min,5 to 10 hours,0,average,average,average,bad,0,B
+college,college,<15 min,5 to 10 hours,0,good,average,average,average,3,D
+high school,high school,<15 min,<2 hours,0,good,average,very high,very good,3,A
+junior high,junior high,>1 hour,<2 hours,0,good,high,very high,good,8,D
+college,college,<15 min,5 to 10 hours,0,excellent,high,high,good,7,F
+college,college,15 to 30 min,5 to 10 hours,0,good,average,average,good,4,B
+junior high,junior high,<15 min,10 hours,0,good,very high,very high,very good,2,F
+junior high,college,<15 min,5 to 10 hours,0,good,high,average,very good,7,B
+high school,high school,<15 min,2 to 5 hours,0,excellent,average,high,good,0,F
+junior high,junior high,<15 min,2 to 5 hours,0,good,average,average,bad,0,F
+junior high,junior high,15 to 30 min,10 hours,0,good,high,high,good,0,F
+high school,college,<15 min,5 to 10 hours,0,good,high,very high,very good,16,B
+high school,elementary,<15 min,5 to 10 hours,1,excellent,high,average,very good,12,C
+high school,junior high,<15 min,2 to 5 hours,0,good,average,low,bad,0,F
+high school,high school,<15 min,10 hours,0,excellent,average,average,very bad,7,A
+high school,junior high,<15 min,2 to 5 hours,0,good,average,average,bad,4,D
+junior high,elementary,<15 min,5 to 10 hours,1,good,average,high,average,4,D
+college,college,<15 min,2 to 5 hours,1,good,average,average,bad,0,A
+high school,college,<15 min,2 to 5 hours,0,good,average,average,very good,11,B
+junior high,junior high,<15 min,2 to 5 hours,1,average,average,very low,good,0,F
+junior high,high school,<15 min,5 to 10 hours,0,good,average,average,average,4,D
+high school,junior high,<15 min,5 to 10 hours,0,excellent,high,average,very bad,7,B
+college,high school,<15 min,5 to 10 hours,0,excellent,average,low,good,9,A
+college,high school,<15 min,5 to 10 hours,0,excellent,high,very high,very good,0,A
+college,high school,<15 min,5 to 10 hours,0,good,high,average,good,0,B
+high school,junior high,15 to 30 min,<2 hours,1,bad,very high,very high,very good,10,C
+elementary,elementary,30 min to 1 hr,2 to 5 hours,3,excellent,high,high,bad,8,F
+high school,high school,15 to 30 min,2 to 5 hours,0,good,very high,high,average,2,C
+elementary,high school,<15 min,<2 hours,1,good,average,average,average,7,F
+elementary,elementary,30 min to 1 hr,<2 hours,1,good,high,high,very good,4,F
+college,high school,15 to 30 min,2 to 5 hours,0,good,very high,very high,bad,4,D
+high school,high school,<15 min,2 to 5 hours,0,excellent,average,high,very good,0,F
+college,college,15 to 30 min,2 to 5 hours,0,good,average,average,very good,4,C
+high school,junior high,15 to 30 min,2 to 5 hours,0,very bad,low,average,very good,2,D
+elementary,elementary,15 to 30 min,<2 hours,0,average,average,low,average,4,D
+elementary,elementary,15 to 30 min,5 to 10 hours,0,excellent,average,low,good,0,A
+elementary,college,30 min to 1 hr,2 to 5 hours,0,good,average,high,very good,0,C
+elementary,elementary,15 to 30 min,2 to 5 hours,1,good,high,average,very good,2,C
+high school,high school,15 to 30 min,2 to 5 hours,0,good,average,low,average,0,D
+college,college,<15 min,2 to 5 hours,0,bad,average,high,very bad,0,B
+elementary,junior high,15 to 30 min,2 to 5 hours,0,average,low,low,average,0,C
+elementary,high school,15 to 30 min,2 to 5 hours,0,average,average,high,average,4,D
+college,college,15 to 30 min,5 to 10 hours,0,good,low,low,very good,0,C
+elementary,elementary,30 min to 1 hr,<2 hours,1,excellent,low,very low,very bad,0,F
+junior high,high school,15 to 30 min,<2 hours,0,excellent,low,average,good,0,D
+college,college,30 min to 1 hr,2 to 5 hours,0,average,low,low,very good,10,D
+high school,junior high,15 to 30 min,2 to 5 hours,2,average,low,low,average,4,F
+elementary,junior high,30 min to 1 hr,<2 hours,0,good,average,average,average,3,C
+junior high,junior high,<15 min,5 to 10 hours,0,average,high,average,average,8,D
+elementary,junior high,<15 min,<2 hours,0,average,very high,very high,very bad,14,F
+college,college,15 to 30 min,5 to 10 hours,0,excellent,high,high,very bad,0,A
+elementary,elementary,>1 hour,5 to 10 hours,0,good,average,low,good,2,F
+college,junior high,15 to 30 min,5 to 10 hours,2,excellent,high,average,average,4,B
+college,college,<15 min,2 to 5 hours,0,excellent,high,average,bad,4,F
+high school,high school,<15 min,2 to 5 hours,0,good,very low,average,very bad,0,B
+high school,elementary,<15 min,2 to 5 hours,0,good,very high,high,very bad,17,D
+college,college,<15 min,2 to 5 hours,0,average,low,high,bad,4,B
+junior high,elementary,15 to 30 min,<2 hours,0,good,high,average,very good,5,F
+junior high,high school,15 to 30 min,2 to 5 hours,0,good,high,average,average,2,D
+elementary,elementary,15 to 30 min,<2 hours,1,good,average,low,very good,0,F
+college,junior high,15 to 30 min,<2 hours,1,excellent,high,average,average,14,F
+junior high,junior high,15 to 30 min,5 to 10 hours,0,excellent,average,average,good,2,F
+college,college,30 min to 1 hr,<2 hours,0,good,high,average,very good,7,F
+junior high,high school,<15 min,5 to 10 hours,1,excellent,high,low,very good,0,F
+high school,elementary,<15 min,2 to 5 hours,0,good,average,high,very bad,0,F
+elementary,elementary,15 to 30 min,2 to 5 hours,1,very bad,very low,very low,very good,0,F
+junior high,junior high,<15 min,2 to 5 hours,2,excellent,very high,high,good,11,F
+high school,elementary,15 to 30 min,<2 hours,0,bad,high,very high,bad,3,A
+elementary,elementary,<15 min,<2 hours,3,excellent,very high,average,average,3,F
+high school,junior high,30 min to 1 hr,<2 hours,0,good,high,very low,very good,0,D
+elementary,elementary,<15 min,<2 hours,0,average,low,average,very good,5,F
