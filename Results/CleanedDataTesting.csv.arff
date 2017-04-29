@@ -1,0 +1,108 @@
+@relation CleanedData-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P80.0
+
+@attribute sex {F,M}
+@attribute age numeric
+@attribute address {U,R}
+@attribute famsize {GT3,LE3}
+@attribute Pstatus {A,T}
+@attribute Medu {college,elementary,'high school','junior high',none}
+@attribute Fedu {college,elementary,'junior high','high school',none}
+@attribute traveltime {'15 to 30 min','<15 min','30 min to 1 hr','>1 hour'}
+@attribute studytime {'2 to 5 hours','5 to 10 hours','<2 hours','10 hours'}
+@attribute failures numeric
+@attribute schoolsup {yes,no}
+@attribute famsup {no,yes}
+@attribute paid {no,yes}
+@attribute activities {no,yes}
+@attribute higher {yes,no}
+@attribute internet {no,yes}
+@attribute romantic {no,yes}
+@attribute famrel {good,excellent,average,'very bad',bad}
+@attribute freetime {average,low,high,'very low','very high'}
+@attribute goout {high,average,low,'very low','very high'}
+@attribute Dalc {'very low',low,'very high',average,high}
+@attribute Walc {'very low',average,low,high,'very high'}
+@attribute health {average,'very good','very bad',bad,good}
+@attribute absences numeric
+@attribute G {F,B,D,A,C}
+
+@data
+F,17,R,GT3,T,college,'high school','15 to 30 min','5 to 10 hours',0,no,yes,yes,yes,yes,yes,yes,good,high,low,'very low','very low',good,6,F
+F,18,R,GT3,T,college,college,'15 to 30 min','2 to 5 hours',0,no,no,yes,yes,yes,yes,no,good,average,high,low,low,good,8,D
+M,18,R,LE3,T,'high school','junior high','30 min to 1 hr','<2 hours',0,no,no,no,no,yes,yes,no,good,high,'very low',average,high,'very good',0,D
+M,16,U,GT3,T,'high school','high school','15 to 30 min','<2 hours',0,no,no,no,yes,yes,yes,no,excellent,high,low,'very low','very low','very good',0,C
+F,18,R,LE3,A,elementary,college,'30 min to 1 hr','2 to 5 hours',0,no,no,no,no,yes,no,yes,good,average,high,'very low',high,'very good',0,C
+M,17,R,GT3,T,'junior high','junior high','15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,no,good,'very high',low,'very low','very low','very bad',4,D
+M,16,U,GT3,T,'high school','high school','30 min to 1 hr','2 to 5 hours',0,yes,yes,no,no,yes,yes,no,excellent,average,average,'very low',average,bad,6,D
+M,18,U,LE3,T,'junior high',elementary,'>1 hour','2 to 5 hours',0,yes,yes,yes,yes,yes,yes,yes,good,average,low,high,'very high',average,14,F
+F,17,R,GT3,T,'junior high',college,'<15 min','5 to 10 hours',0,no,yes,no,no,yes,yes,yes,good,high,average,'very low','very low','very good',7,B
+M,18,U,LE3,T,elementary,'high school','<15 min','<2 hours',1,no,no,no,no,no,yes,yes,good,average,average,low,average,average,7,F
+F,16,U,LE3,T,'high school',elementary,'<15 min','2 to 5 hours',0,yes,yes,no,no,yes,no,no,average,average,average,low,average,bad,4,F
+F,15,U,GT3,T,'junior high','junior high','<15 min','10 hours',0,yes,yes,yes,no,yes,yes,no,excellent,'very low',low,'very low','very low',average,8,F
+M,19,U,GT3,T,'high school','junior high','<15 min','<2 hours',3,no,yes,no,no,no,yes,yes,good,'very high',high,'very low','very low',good,0,F
+F,15,R,GT3,T,'high school','high school','15 to 30 min','5 to 10 hours',2,no,yes,yes,yes,yes,yes,yes,good,low,'very low',low,average,average,8,D
+F,16,U,GT3,T,'high school',college,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,bad,high,average,'very low',low,average,12,F
+F,16,U,LE3,T,'high school','high school','15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,no,good,high,'very high','very low','very low',good,4,A
+F,18,U,LE3,T,college,'high school','15 to 30 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,yes,good,high,'very high','very low',low,bad,10,F
+F,17,U,GT3,T,'junior high','junior high','<15 min','5 to 10 hours',0,no,no,no,yes,yes,no,yes,average,high,average,'very low','very low',average,8,D
+M,16,U,GT3,T,college,college,'<15 min','<2 hours',0,yes,yes,yes,yes,yes,yes,no,good,'very high','very high','very high','very high',good,14,F
+F,15,R,GT3,T,'high school',college,'15 to 30 min','5 to 10 hours',2,no,yes,no,no,yes,yes,yes,good,low,low,low,low,'very good',0,F
+F,15,U,GT3,T,elementary,'junior high','<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,average,low,average,'very low',low,'very bad',2,B
+F,15,U,GT3,T,elementary,'junior high','<15 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,no,good,average,low,'very low','very low','very good',2,D
+F,17,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,excellent,high,'very high','very low',low,'very good',4,F
+F,16,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,no,yes,no,yes,yes,yes,excellent,high,high,'very low','very low','very good',0,F
+F,15,R,GT3,T,'junior high','junior high','<15 min','<2 hours',0,yes,yes,yes,yes,yes,no,no,good,average,'very low','very low','very low',bad,8,C
+F,16,U,GT3,T,college,'high school','<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,good,average,'very high','very low','very high',bad,2,A
+M,18,U,LE3,T,college,'high school','15 to 30 min','<2 hours',0,no,no,yes,yes,yes,yes,no,good,low,average,'very low',low,'very bad',8,D
+F,15,U,GT3,T,college,college,'<15 min','<2 hours',0,yes,yes,yes,no,yes,yes,no,average,average,high,low,average,'very good',0,D
+F,15,U,GT3,T,college,'junior high','<15 min','5 to 10 hours',0,no,yes,no,yes,yes,yes,no,excellent,average,average,'very low',average,'very bad',4,B
+M,17,U,LE3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,yes,excellent,average,'very high',high,'very high',average,13,C
+M,17,R,GT3,T,elementary,'junior high','<15 min','2 to 5 hours',0,no,no,no,no,yes,no,no,average,'very low',average,'very low','very high',average,4,F
+F,17,U,LE3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,yes,bad,average,high,'very low','very low','very bad',0,B
+F,17,U,GT3,A,'junior high',elementary,'15 to 30 min','5 to 10 hours',0,no,no,no,yes,yes,yes,yes,average,low,average,'very low',low,average,10,C
+F,19,U,GT3,T,college,college,'15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,no,bad,average,high,low,average,bad,0,F
+M,15,U,GT3,T,'junior high','high school','<15 min','5 to 10 hours',0,yes,no,yes,no,yes,yes,no,excellent,average,low,'very low',low,'very good',4,D
+F,17,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,no,yes,good,low,low,'very low','very low',average,12,F
+F,15,R,GT3,T,elementary,elementary,'15 to 30 min','10 hours',1,yes,yes,yes,yes,yes,yes,no,average,'very low',low,'very low','very low','very bad',2,D
+F,19,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',2,no,yes,yes,yes,yes,yes,no,good,average,'very high',average,average,'very good',15,F
+F,18,U,GT3,T,'junior high','high school','<15 min','5 to 10 hours',0,no,yes,no,no,yes,yes,no,good,average,average,'very low',low,average,4,D
+F,18,R,GT3,T,college,college,'30 min to 1 hr','<2 hours',0,no,yes,yes,yes,yes,yes,yes,good,high,average,low,low,'very good',7,F
+F,15,U,GT3,T,elementary,elementary,'30 min to 1 hr','<2 hours',0,no,yes,no,yes,yes,yes,yes,good,average,average,'very low',low,good,0,F
+F,17,R,GT3,T,college,college,'15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,no,good,average,average,'very low',low,'very good',4,C
+F,19,R,GT3,T,'junior high','high school','<15 min','5 to 10 hours',1,no,no,no,yes,yes,yes,no,excellent,high,low,'very low',low,'very good',0,F
+F,16,U,GT3,A,'junior high',elementary,'<15 min','2 to 5 hours',0,no,no,yes,yes,yes,yes,yes,excellent,average,high,'very low','very low',bad,8,F
+M,17,U,GT3,T,college,college,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,excellent,low,average,'very low',low,'very good',4,A
+F,19,U,LE3,T,elementary,elementary,'<15 min','2 to 5 hours',1,yes,yes,no,yes,yes,yes,no,good,high,average,'very low',average,average,18,D
+F,16,U,LE3,T,'junior high',college,'15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,yes,good,low,low,'very low',low,'very good',2,C
+M,17,U,GT3,T,elementary,'junior high','15 to 30 min','2 to 5 hours',0,no,no,yes,yes,yes,yes,no,good,high,high,high,'very high','very good',12,F
+M,16,U,LE3,T,elementary,elementary,'<15 min','2 to 5 hours',1,no,no,no,no,yes,no,yes,good,high,high,'very low',average,'very good',0,C
+M,15,U,GT3,T,college,'high school','15 to 30 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,no,excellent,high,average,'very low',low,average,2,D
+F,17,U,LE3,T,'junior high','junior high','<15 min','<2 hours',0,no,yes,no,no,yes,yes,yes,average,high,high,'very low',average,'very good',12,C
+F,18,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',0,no,yes,no,no,yes,no,yes,excellent,average,high,'very low','very low','very good',0,F
+F,16,U,GT3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,yes,good,high,low,'very low','very low',average,0,B
+M,18,R,GT3,T,'high school','junior high','15 to 30 min','<2 hours',1,no,yes,no,no,yes,yes,no,bad,'very high','very high','very high','very high','very good',10,C
+M,15,U,GT3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,good,average,average,'very low','very low','very good',2,A
+M,15,U,GT3,T,college,college,'<15 min','<2 hours',0,no,yes,no,yes,yes,yes,no,excellent,average,average,'very low','very low','very good',4,B
+M,18,U,GT3,T,college,'junior high','<15 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,yes,good,average,low,'very low',high,'very good',11,D
+M,17,R,GT3,T,'junior high','junior high','>1 hour','<2 hours',0,no,yes,no,no,yes,yes,no,good,high,'very high','very high','very high',good,8,D
+M,17,R,GT3,T,'junior high',elementary,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,good,high,low,low,high,'very good',0,C
+M,16,U,LE3,T,college,'junior high','<15 min','2 to 5 hours',0,no,no,no,yes,yes,yes,no,good,'very high','very low','very low',average,'very good',2,A
+F,16,U,GT3,T,'high school','junior high','<15 min','2 to 5 hours',0,no,yes,yes,no,yes,yes,no,'very bad',low,low,'very low',low,'very bad',14,C
+M,17,R,GT3,T,elementary,'high school','30 min to 1 hr','2 to 5 hours',1,no,yes,no,yes,yes,yes,no,excellent,low,high,'very low',high,'very good',20,F
+M,16,U,LE3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,good,high,high,'very low','very low',average,0,D
+F,16,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',1,yes,no,no,yes,yes,yes,no,average,'very low',low,'very low','very low','very good',6,C
+F,18,U,GT3,T,elementary,elementary,'15 to 30 min','2 to 5 hours',0,yes,no,no,yes,yes,yes,no,excellent,high,high,'very low','very low',good,4,F
+M,17,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,yes,good,average,high,low,average,good,12,D
+M,17,R,LE3,T,'junior high',elementary,'15 to 30 min','<2 hours',2,no,no,no,yes,no,yes,yes,average,average,low,low,low,'very good',0,F
+M,17,R,GT3,T,college,'high school','15 to 30 min','2 to 5 hours',0,no,yes,yes,yes,yes,yes,yes,good,'very high','very high','very low',average,bad,4,D
+M,19,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',1,no,yes,no,yes,yes,yes,yes,good,high,high,'very low','very low',average,20,C
+M,15,R,GT3,T,'junior high','high school','<15 min','2 to 5 hours',0,yes,no,yes,yes,yes,no,no,good,high,high,'very low','very low','very bad',2,F
+M,18,U,GT3,T,college,college,'<15 min','2 to 5 hours',1,no,yes,no,yes,yes,yes,no,good,average,average,low,low,bad,0,A
+F,18,U,GT3,A,college,college,'15 to 30 min','2 to 5 hours',0,yes,no,no,no,yes,no,no,good,average,high,'very low','very low',average,6,F
+M,18,U,GT3,T,college,'high school','<15 min','5 to 10 hours',0,no,yes,yes,no,yes,yes,yes,excellent,high,'very high',low,average,'very good',0,A
+M,18,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',1,no,yes,yes,yes,yes,yes,no,good,high,high,low,high,'very good',15,F
+M,18,R,LE3,T,'high school','junior high','15 to 30 min','5 to 10 hours',0,no,yes,yes,yes,yes,yes,no,excellent,high,low,'very low','very low',good,8,B
+F,16,U,GT3,T,'junior high','high school','<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,good,average,average,'very low','very low',bad,10,C
+M,16,U,LE3,T,college,'high school','<15 min','<2 hours',0,no,no,yes,yes,yes,yes,no,average,'very low',average,'very low',average,'very good',4,D
+F,16,U,GT3,T,college,college,'<15 min','<2 hours',0,no,no,no,yes,yes,yes,no,excellent,average,high,'very low',low,'very bad',6,B
+M,16,R,GT3,T,'junior high','junior high','30 min to 1 hr','<2 hours',0,no,no,no,no,yes,no,no,good,low,low,'very low',low,average,2,B
