@@ -1,0 +1,131 @@
+sex,age,address,famsize,Pstatus,Medu,Fedu,traveltime,studytime,failures,schoolsup,famsup,paid,activities,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G
+F,18,U,LE3,A,elementary,'junior high','15 to 30 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,good,high,average,'very low',low,good,0,Pass
+M,15,U,GT3,T,'high school',elementary,'15 to 30 min','<2 hours',0,no,yes,no,no,yes,no,no,average,low,average,'very low',average,good,0,Fail
+F,17,R,GT3,T,'junior high',elementary,'30 min to 1 hr','2 to 5 hours',0,no,no,no,yes,yes,no,no,bad,'very low','very low','very low','very low',average,2,Pass
+M,19,U,GT3,T,college,'junior high','15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,yes,excellent,high,high,'very low','very low','very bad',9,Pass
+M,17,R,GT3,T,'junior high','junior high','15 to 30 min','<2 hours',0,no,no,no,no,no,no,no,excellent,low,low,'very low','very low',good,0,Pass
+F,19,R,GT3,T,elementary,elementary,'15 to 30 min','2 to 5 hours',1,no,yes,no,no,yes,yes,yes,good,average,average,'very low','very low',average,4,Fail
+F,17,U,GT3,T,'high school','high school','15 to 30 min','5 to 10 hours',0,no,yes,no,no,yes,yes,yes,good,low,low,low,average,'very good',10,Pass
+M,15,U,GT3,T,college,college,'15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,no,no,good,high,average,'very low','very low',bad,4,Pass
+M,15,R,GT3,T,elementary,'junior high','30 min to 1 hr','2 to 5 hours',0,no,yes,no,yes,yes,no,no,excellent,'very high','very high','very low',average,'very good',11,Pass
+M,19,R,GT3,T,'high school','high school','<15 min','2 to 5 hours',0,no,no,no,yes,yes,no,yes,good,'very high',average,'very low',low,'very good',0,Pass
+M,16,U,GT3,T,'junior high','high school','15 to 30 min','<2 hours',0,no,no,no,no,yes,yes,no,excellent,average,average,'very low','very low',average,0,Pass
+M,16,U,LE3,A,college,college,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,no,no,good,'very low',average,average,'very high','very good',6,Fail
+F,16,U,GT3,A,'high school',college,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,average,low,'very low','very low',high,'very good',12,Pass
+F,15,R,GT3,T,elementary,'junior high','15 to 30 min','<2 hours',0,no,no,no,no,yes,no,no,excellent,'very low',low,'very low','very low','very bad',3,Pass
+F,15,R,GT3,T,college,college,'15 to 30 min','<2 hours',0,no,no,no,no,yes,yes,yes,'very bad','very high','very low',average,'very high','very good',0,Pass
+F,18,U,GT3,A,elementary,'junior high','15 to 30 min','2 to 5 hours',2,no,yes,no,no,yes,no,no,good,average,average,'very low','very low','very good',2,Fail
+F,17,U,GT3,T,'high school',college,'<15 min','5 to 10 hours',0,no,no,no,no,yes,yes,no,good,high,'very high','very low',average,'very good',8,Pass
+F,18,U,GT3,T,'high school','junior high','<15 min','5 to 10 hours',0,no,no,no,no,yes,yes,yes,excellent,high,average,low,average,'very bad',4,Pass
+F,18,U,GT3,T,'junior high','junior high','15 to 30 min','2 to 5 hours',0,no,no,no,yes,yes,yes,no,good,average,'very high','very low','very low','very bad',2,Pass
+M,17,U,LE3,A,'high school','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,high,high,'very low',low,'very good',10,Pass
+F,17,U,GT3,T,none,elementary,'15 to 30 min','<2 hours',0,no,no,no,yes,yes,no,no,bad,high,high,average,'very high','very good',5,Fail
+M,16,R,GT3,T,'high school',college,'30 min to 1 hr','2 to 5 hours',0,no,no,no,no,yes,no,no,average,high,'very high','very low',low,'very good',4,Pass
+F,18,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',0,no,yes,no,no,yes,no,yes,excellent,average,high,'very low','very low','very good',0,Pass
+F,15,R,GT3,T,'high school',college,'<15 min','5 to 10 hours',0,yes,yes,no,yes,yes,yes,no,good,average,low,'very low','very low','very good',2,Pass
+M,16,R,GT3,T,elementary,elementary,'15 to 30 min','<2 hours',0,no,no,no,yes,yes,no,no,average,high,high,average,high,'very good',6,Pass
+M,16,U,GT3,T,'junior high',elementary,'30 min to 1 hr','<2 hours',0,no,no,no,no,yes,yes,no,good,average,average,'very low','very low',good,7,Pass
+F,18,R,GT3,T,elementary,elementary,'30 min to 1 hr','<2 hours',3,no,yes,no,yes,yes,no,no,excellent,low,'very high','very low','very high',good,6,Pass
+F,16,U,LE3,T,elementary,elementary,'30 min to 1 hr','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,average,low,'very low',average,'very good',6,Fail
+M,19,U,GT3,T,'junior high',elementary,'15 to 30 min','<2 hours',3,no,no,no,yes,no,yes,yes,good,high,average,'very low',average,'very good',4,Fail
+M,17,U,GT3,T,elementary,elementary,'<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,good,average,average,'very low',low,good,0,Pass
+F,15,U,GT3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,average,average,average,'very low',low,bad,2,Pass
+M,18,R,GT3,T,elementary,elementary,'15 to 30 min','<2 hours',1,no,no,no,yes,no,yes,no,good,high,average,average,high,good,0,Fail
+M,18,U,GT3,T,'high school','junior high','15 to 30 min','<2 hours',0,no,no,no,no,no,yes,no,good,high,'very high',low,high,'very good',8,Fail
+M,18,U,GT3,T,'junior high',elementary,'<15 min','5 to 10 hours',0,no,no,no,yes,yes,yes,no,good,low,high,'very low',average,bad,0,Pass
+M,16,R,LE3,T,college,elementary,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,good,'very low',low,low,'very low',bad,0,Pass
+F,18,U,GT3,T,'junior high',elementary,'15 to 30 min','2 to 5 hours',0,no,no,no,yes,yes,yes,yes,good,average,'very low','very low','very low','very good',10,Pass
+M,15,U,GT3,T,college,'high school','15 to 30 min','10 hours',0,yes,yes,no,no,yes,yes,no,bad,low,low,'very low','very low',average,6,Pass
+M,18,U,GT3,T,college,'high school','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,average,low,'very low','very low',average,2,Pass
+F,16,U,GT3,T,'high school',elementary,'<15 min','10 hours',0,yes,yes,no,no,yes,yes,no,good,average,average,'very low',low,'very good',0,Fail
+F,16,U,LE3,T,college,elementary,'15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,'very bad',low,high,low,low,'very bad',8,Pass
+F,17,R,GT3,T,'junior high','junior high','<15 min','<2 hours',0,no,yes,yes,no,yes,yes,no,excellent,'very low',average,'very low',low,'very good',5,Fail
+M,18,U,LE3,T,college,college,'<15 min','<2 hours',0,no,yes,no,no,yes,yes,no,good,low,'very high',average,high,'very good',2,Fail
+F,17,U,GT3,T,college,'junior high','<15 min','2 to 5 hours',0,yes,yes,no,yes,yes,yes,no,excellent,'very high','very high','very low',average,'very good',0,Fail
+F,18,U,GT3,T,elementary,elementary,'30 min to 1 hr','2 to 5 hours',2,no,no,no,yes,yes,no,yes,average,high,high,low,low,'very good',3,Fail
+M,15,U,LE3,A,college,'junior high','15 to 30 min','<2 hours',0,no,no,no,no,yes,no,no,excellent,'very high','very high',average,high,'very good',4,Fail
+F,16,U,GT3,T,college,'junior high','<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,yes,good,low,average,'very low','very low',average,0,Pass
+F,17,U,LE3,A,'high school','junior high','15 to 30 min','2 to 5 hours',0,no,no,no,no,yes,no,yes,'very bad',low,average,'very low',low,'very good',0,Pass
+M,17,U,GT3,T,elementary,'junior high','<15 min','<2 hours',1,no,yes,no,yes,no,yes,yes,excellent,average,'very high','very high','very high','very bad',12,Fail
+F,16,U,LE3,T,college,'high school','30 min to 1 hr','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,excellent,high,average,'very low',low,'very bad',2,Pass
+F,16,R,GT3,T,elementary,elementary,'>1 hour','5 to 10 hours',0,yes,yes,no,no,yes,no,no,good,high,average,'very low','very low','very good',2,Fail
+M,16,U,LE3,T,'junior high','junior high','15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,excellent,high,high,low,high,'very good',2,Pass
+F,17,U,GT3,T,'high school',elementary,'<15 min','<2 hours',1,no,yes,yes,no,yes,yes,yes,good,'very low',low,'very low','very low',average,6,Pass
+M,18,U,LE3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,yes,no,yes,no,yes,no,good,high,high,'very low',average,average,11,Pass
+F,18,U,GT3,T,elementary,'junior high','15 to 30 min','2 to 5 hours',0,no,yes,no,no,no,no,no,good,'very low','very low','very low','very low',good,0,Pass
+M,19,U,GT3,T,'junior high',elementary,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,excellent,average,high,'very low',high,good,10,Pass
+M,16,U,LE3,T,'junior high','junior high','>1 hour','5 to 10 hours',0,no,no,no,no,yes,no,no,excellent,'very low',average,low,low,average,0,Fail
+F,17,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,excellent,high,'very high','very low',low,'very good',12,Pass
+F,16,U,GT3,T,'high school','high school','30 min to 1 hr','2 to 5 hours',0,yes,yes,no,yes,yes,no,no,excellent,average,low,'very low','very low',good,2,Pass
+F,17,U,GT3,T,elementary,elementary,'<15 min','5 to 10 hours',0,no,yes,no,yes,yes,no,yes,good,average,high,'very low','very low','very good',12,Pass
+M,18,R,GT3,T,college,college,'30 min to 1 hr','<2 hours',0,no,yes,yes,yes,yes,yes,yes,bad,'very high','very high','very low','very low','very bad',5,Pass
+F,19,U,GT3,T,elementary,elementary,'15 to 30 min','2 to 5 hours',1,no,yes,no,no,yes,yes,yes,'very bad','very low',high,high,'very low','very bad',12,Fail
+F,17,U,GT3,T,college,'junior high','15 to 30 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,average,average,'very low',low,good,0,Pass
+F,18,U,GT3,T,'junior high','high school','<15 min','10 hours',0,no,yes,no,yes,yes,yes,yes,good,'very high','very high','very low',average,bad,10,Pass
+F,16,R,GT3,T,elementary,'junior high','<15 min','5 to 10 hours',0,yes,yes,no,no,yes,yes,yes,good,average,high,'very low','very low',average,5,Pass
+F,16,U,GT3,T,'junior high',elementary,'<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,excellent,average,average,'very low','very low','very bad',0,Pass
+M,17,R,LE3,T,elementary,elementary,'>1 hour','2 to 5 hours',0,no,no,no,yes,no,no,yes,excellent,average,'very high','very low','very high','very good',0,Fail
+F,17,U,LE3,T,'junior high',elementary,'<15 min','2 to 5 hours',0,no,no,no,yes,yes,yes,no,good,low,average,low,low,bad,2,Pass
+M,17,R,GT3,T,elementary,elementary,'30 min to 1 hr','<2 hours',0,no,no,no,no,no,no,no,good,low,average,average,high,good,4,Pass
+F,19,R,GT3,A,elementary,elementary,'15 to 30 min','2 to 5 hours',3,no,yes,no,yes,no,no,yes,average,'very high',high,'very low',high,'very bad',0,Fail
+F,15,U,GT3,T,'junior high','junior high','<15 min','10 hours',0,yes,yes,no,no,yes,yes,no,excellent,'very low',low,'very low','very low',average,4,Pass
+F,16,U,GT3,T,elementary,elementary,'15 to 30 min','<2 hours',0,no,yes,no,no,yes,no,no,good,average,low,'very low',high,'very good',2,Pass
+F,15,U,GT3,T,elementary,'junior high','<15 min','2 to 5 hours',0,no,no,no,no,yes,yes,no,average,low,average,'very low',low,'very bad',0,Pass
+F,19,U,GT3,T,elementary,elementary,'15 to 30 min','<2 hours',1,no,no,no,no,no,no,no,excellent,'very high','very high',low,average,bad,0,Fail
+F,17,R,GT3,T,'junior high',elementary,'30 min to 1 hr','<2 hours',0,no,yes,no,yes,no,no,yes,excellent,'very high',average,'very low','very low',average,2,Pass
+M,17,R,GT3,T,college,'high school','15 to 30 min','2 to 5 hours',1,no,yes,yes,yes,yes,yes,yes,good,'very high','very high','very low',average,bad,4,Pass
+M,15,U,LE3,A,'junior high',elementary,'<15 min','<2 hours',0,no,no,no,yes,yes,yes,no,good,average,average,'very low',low,'very good',11,Pass
+F,16,U,LE3,T,college,college,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,'very high',low,'very low',low,average,0,Pass
+M,15,U,LE3,A,'junior high',elementary,'>1 hour','<2 hours',0,no,no,no,no,yes,yes,no,good,'very high','very high',low,'very high','very good',0,Pass
+F,15,U,GT3,T,college,'junior high','<15 min','5 to 10 hours',0,no,yes,no,yes,yes,yes,no,excellent,average,average,'very low',average,'very bad',4,Pass
+M,16,U,GT3,T,college,college,'<15 min','<2 hours',0,no,no,yes,yes,yes,yes,no,excellent,average,low,'very low',low,'very good',4,Pass
+F,16,U,LE3,T,'high school','high school','15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,good,high,'very high','very low','very low',good,0,Pass
+M,18,R,GT3,T,college,'junior high','15 to 30 min','<2 hours',1,no,no,yes,no,yes,no,no,excellent,high,average,high,average,average,0,Fail
+M,16,U,GT3,T,'high school','junior high','<15 min','<2 hours',0,no,yes,no,no,yes,yes,no,excellent,high,average,'very low','very low','very good',4,Pass
+M,17,U,GT3,T,elementary,elementary,'30 min to 1 hr','2 to 5 hours',0,no,no,no,no,yes,yes,yes,excellent,'very low',average,average,average,'very bad',0,Pass
+M,17,R,GT3,T,'high school',college,'30 min to 1 hr','2 to 5 hours',0,no,no,no,no,yes,no,no,excellent,high,'very high',low,high,'very good',2,Fail
+M,15,U,GT3,T,'high school',college,'<15 min','<2 hours',0,yes,no,no,no,yes,yes,no,excellent,'very high','very high',average,low,'very good',2,Fail
+F,20,U,GT3,T,'high school','high school','15 to 30 min','2 to 5 hours',1,no,no,no,yes,yes,yes,yes,average,average,high,low,high,average,8,Fail
+M,15,U,LE3,A,'junior high','junior high','30 min to 1 hr','10 hours',0,no,yes,no,yes,yes,no,no,excellent,high,'very high',low,average,'very good',8,Pass
+F,18,U,GT3,T,'junior high',elementary,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,yes,good,low,'very high','very low',low,'very bad',8,Pass
+M,16,U,GT3,T,college,college,'<15 min','5 to 10 hours',0,no,yes,no,yes,yes,yes,no,excellent,average,average,'very low',average,'very good',0,Pass
+F,15,U,GT3,T,elementary,elementary,'<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,high,low,'very low',low,'very good',0,Pass
+F,16,R,GT3,T,'junior high','junior high','30 min to 1 hr','2 to 5 hours',0,no,yes,no,no,no,yes,no,average,high,'very high','very low',low,'very bad',1,Pass
+F,17,U,GT3,A,elementary,none,'15 to 30 min','2 to 5 hours',0,no,no,no,no,yes,yes,yes,good,high,'very high','very low','very low',good,1,Fail
+M,15,U,LE3,A,college,college,'<15 min','<2 hours',0,no,no,no,yes,yes,yes,no,excellent,'very high',average,'very low','very low',good,4,Pass
+F,17,U,GT3,T,elementary,elementary,'<15 min','5 to 10 hours',0,no,yes,no,no,yes,yes,no,good,average,average,'very low','very low',average,0,Pass
+F,18,U,GT3,T,elementary,'junior high','<15 min','2 to 5 hours',1,no,yes,no,yes,yes,yes,yes,average,high,high,low,average,'very good',9,Fail
+F,17,R,GT3,A,'high school','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,average,average,low,average,bad,0,Pass
+M,15,U,LE3,A,'high school','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,low,low,'very low','very low','very bad',0,Pass
+M,18,U,LE3,T,elementary,elementary,'<15 min','<2 hours',2,no,no,no,no,no,yes,yes,bad,average,'very high',low,'very high',good,0,Fail
+F,16,U,GT3,T,'junior high','junior high','<15 min','<2 hours',0,no,yes,no,no,yes,yes,no,'very bad',low,low,'very low',average,'very good',6,Pass
+F,17,R,GT3,T,'junior high',elementary,'15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,good,low,'very high','very low',low,'very good',0,Pass
+F,15,U,LE3,T,'high school','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,no,good,high,high,'very low','very low','very good',4,Pass
+F,16,U,GT3,T,elementary,'junior high','<15 min','<2 hours',0,no,no,no,no,no,yes,no,excellent,average,'very high','very low',low,'very good',4,Pass
+F,16,U,GT3,T,'junior high',elementary,'<15 min','<2 hours',0,no,no,no,no,yes,yes,yes,good,'very high',low,'very low','very low','very good',4,Pass
+F,18,U,LE3,A,elementary,elementary,'<15 min','2 to 5 hours',0,no,no,no,no,yes,no,yes,excellent,low,average,'very low',low,average,2,Pass
+F,17,U,GT3,A,college,'high school','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,yes,excellent,low,low,'very low',low,'very good',14,Pass
+M,18,R,LE3,T,'high school','high school','<15 min','2 to 5 hours',0,no,yes,no,no,yes,yes,yes,good,average,average,'very low',average,'very good',8,Fail
+F,16,U,GT3,T,elementary,'high school','<15 min','2 to 5 hours',0,no,no,no,yes,yes,yes,yes,good,average,'very high','very low','very low',average,0,Pass
+M,18,U,GT3,T,college,'junior high','<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,yes,excellent,high,'very high','very low',average,'very good',4,Pass
+M,15,R,GT3,T,'junior high','high school','<15 min','2 to 5 hours',0,yes,no,yes,yes,yes,no,no,good,high,high,'very low','very low','very bad',0,Fail
+F,18,U,GT3,T,'junior high','junior high','15 to 30 min','2 to 5 hours',0,no,yes,no,no,yes,yes,yes,'very bad',average,'very low','very low','very low',bad,4,Fail
+F,15,R,LE3,T,'junior high',elementary,'15 to 30 min','<2 hours',0,no,no,no,no,no,no,no,'very bad',average,high,'very low','very low','very bad',0,Fail
+F,17,U,LE3,A,'junior high',elementary,'30 min to 1 hr','<2 hours',0,no,yes,no,no,yes,yes,no,average,low,low,'very low',low,'very good',8,Pass
+F,19,U,GT3,T,'high school','high school','<15 min','2 to 5 hours',0,no,yes,no,yes,yes,yes,no,good,average,'very high',average,average,'very good',16,Pass
+M,18,U,LE3,A,'high school',college,'<15 min','2 to 5 hours',0,no,no,no,yes,yes,yes,yes,good,average,'very high','very low',high,bad,9,Pass
+M,15,U,GT3,T,'high school',college,'<15 min','<2 hours',0,no,no,no,no,yes,yes,no,average,high,average,'very low',low,good,2,Pass
+F,17,R,GT3,T,'junior high','junior high','<15 min','<2 hours',0,no,yes,no,no,yes,yes,no,excellent,average,low,'very low',low,average,21,Pass
+F,15,R,GT3,T,'high school',college,'15 to 30 min','5 to 10 hours',0,no,yes,no,no,yes,yes,yes,good,low,low,low,low,'very good',0,Pass
+F,15,U,GT3,T,'junior high',elementary,'<15 min','2 to 5 hours',0,yes,yes,no,no,yes,yes,no,good,high,low,average,average,bad,0,Pass
+F,17,U,GT3,T,'high school',elementary,'<15 min','5 to 10 hours',0,no,yes,no,no,yes,yes,no,average,high,average,low,average,'very good',0,Pass
+F,18,U,LE3,T,elementary,elementary,'15 to 30 min','2 to 5 hours',0,no,yes,no,no,yes,no,no,good,high,average,'very low','very low',average,2,Pass
+F,17,U,GT3,A,elementary,elementary,'<15 min','2 to 5 hours',0,no,no,no,yes,yes,yes,yes,good,'very high','very high','very low',low,average,2,Pass
+F,17,U,GT3,T,college,'high school','<15 min','5 to 10 hours',0,no,yes,no,no,yes,yes,no,good,low,low,'very low',low,average,0,Pass
+F,17,U,GT3,T,'junior high','junior high','<15 min','2 to 5 hours',0,no,yes,no,no,yes,no,yes,good,low,low,'very low','very low',average,4,Pass
+F,17,U,GT3,T,'high school','high school','<15 min','5 to 10 hours',0,no,no,no,yes,yes,no,no,average,low,average,'very low','very low',good,2,Pass
+M,18,U,LE3,T,elementary,elementary,'15 to 30 min','2 to 5 hours',0,no,yes,no,yes,yes,no,no,good,average,average,'very low',high,'very good',6,Fail
+F,17,U,GT3,T,'junior high',college,'<15 min','2 to 5 hours',0,no,yes,no,yes,yes,no,no,excellent,high,low,low,average,'very good',0,Pass
+F,15,U,GT3,A,'high school','high school','<15 min','2 to 5 hours',0,no,no,no,no,yes,no,yes,'very bad',average,low,low,average,'very bad',24,Fail
+F,18,U,GT3,T,elementary,elementary,'15 to 30 min','5 to 10 hours',0,no,no,no,yes,yes,yes,no,good,'very high','very high','very low',low,bad,0,Pass
+M,15,U,LE3,T,college,college,'<15 min','<2 hours',0,no,yes,no,yes,yes,yes,no,good,average,average,'very low',average,'very good',0,Pass
