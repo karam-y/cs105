@@ -5,8 +5,8 @@ school, mother's and father's jobs, guardian, family size, reason for picking sc
 Saves it as CleanedData.csv
 '''
 
-f = open('student-por.csv','r')
-outf = open('PorPassFail.csv','w')
+f = open('student-mat.csv','r')
+outf = open('PassFail.csv','w')
 
 header = f.readline() #Skip header
 newheader = header[:-1].split(';')
@@ -21,6 +21,7 @@ for line in f:
         newline[-1] = 'Fail'
     else:
         newline[-1] = 'Pass'
+   
         
     line = newline[1:8] + newline[12:19] + newline[20:30] + newline[-1:]
     
@@ -145,4 +146,3 @@ for line in f:
     
 f.close()
 outf.close()
-
