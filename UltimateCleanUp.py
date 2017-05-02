@@ -17,18 +17,18 @@ print(joinheader[:-1], file = outf)
 for line in f:
     line = line.replace('"',"") #Remove quotes 
     newline = line[:-1].split(';') #Remove \n and split into an index
-    if int(newline[-2]) <= 9:
-        newline[-2] = 'F'
+    if int(newline[-1]) <= 9:
+        newline[-1] = 'F'
     elif int(newline[-1]) >= 10 and int(newline[-1]) <= 11:
-        newline[-2] = 'D'
+        newline[-1] = 'D'
     elif int(newline[-1]) >= 12 and int(newline[-1]) <= 13:
-        newline[-2] = 'C'
+        newline[-1] = 'C'
     elif int(newline[-1]) >= 14 and int(newline[-1]) <= 15:
-        newline[-2] = 'B'
+        newline[-1] = 'B'
     else:
-        newline[-2] = 'A'
+        newline[-1] = 'A'
         
-    line = newline[1:8] + newline[12:19] + newline[20:30] + newline[-2:-1]
+    line = newline[1:8] + newline[12:19] + newline[20:30] + newline[-1:]
     
 # change Medu from numeric to nominal
     if line[5] == '0':
